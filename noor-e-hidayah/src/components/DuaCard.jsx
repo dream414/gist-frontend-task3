@@ -30,7 +30,7 @@ export default function DuaCard({
       <p className="english-text">{item.translation}</p>
 
       <div className="reference">
-        <span>Quran / Dua Reference</span>
+        <span>(Quran / Dua Reference)</span>
         <strong>{item.reference}</strong>
       </div>
     </article>
